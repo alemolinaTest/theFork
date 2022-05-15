@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TheForkApp</string>
+    <string name="enter_restaurant_id">Enter Restaurant ID</string>
+    <string name="restaurant_id">Restaurant ID</string>
+    <string name="get_data">Get Data</string>
+    <string name="continue_button">Continue</string>
 </resources>
